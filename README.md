@@ -7,6 +7,11 @@
 3. Use WAMP server.
 4. First create the MySql database on WAMP server using the sql file in the repo
 5. And then build and run the LoadingScreen.java or Main.java file from the IDE. 
+## PowerPoint File
+
+We have a PowerPoint file (`ppt.pptx.pptx`) available for download. Due to its size, it cannot be viewed directly in the GitHub interface. To view the PowerPoint presentation, please download it using the link below:
+
+[Download PowerPoint File](./ppt.pptx.pptx)
 
 **Login Information** <br>
  ```
